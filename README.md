@@ -1,4 +1,5 @@
 # DeepFake-Doppelganger
+Generate an avatar that preserves your likeness but hides your biometric data from facial recognition algorithms using StyleGAN and Avatarify.
 
 Prerequisites (Mac)
 
